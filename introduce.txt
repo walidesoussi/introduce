@@ -1,0 +1,18 @@
+Question 1: Introduce yourself.
+I am Walid SOUSSI. I'm 26 years old. I'm full stack JS developer. I learned at Go my code. I m civil engineer but I changed my profession 
+because I'm good at development.
+Question 2: Name three reasons that you should be recruited instead of another candidate.
+-Motivation
+-Punctuality
+-my added value in company
+Question 3: Are you responsible?
+for me responsibility is a duty and throughout my career I was responsible for associations and clubs
+
+Question 4: Tell me about your academic training.
+-Civil Engineer 6years
+-Full stack JS 6 months 
+
+Question 5: Name three of your flaws.
+-I focus too much on the details.
+-I have a hard time letting go of a project.
+-I can have trouble asking for help.
